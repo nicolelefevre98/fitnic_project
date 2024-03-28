@@ -1,0 +1,30 @@
+.bottom-menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #ED6B7B;
+  }
+  
+  .menu-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+  }
+  
+  .menu-icon {
+    font-size: 36px;
+    width: 30px; 
+    margin-bottom: 5px;
+    margin-top: 10px;
+  }
+  
+  .menu-item span {
+    display: block;
+    text-align: center;
+    align-self: center;
+  }

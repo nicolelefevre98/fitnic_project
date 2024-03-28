@@ -1,0 +1,45 @@
+.profile-title, .profile-sub {
+    color:#6E5050;
+}
+
+.profile-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    height: 100vh;
+    color: #6E5050;
+}
+
+.chevron-link {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #6E5050;
+    margin-bottom: 20px;
+}
+
+.profile-box {
+    text-align: center;
+}
+
+.profile-image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+    object-fit: cover;
+}
+
+.logout-link {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: #6E5050;
+}
+
+
+.chevron-link .fa-chevron-left,
+.logout-link .fa-sign-out-alt {
+    color: #6E5050 !important;
+}

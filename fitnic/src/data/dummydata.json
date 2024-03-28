@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "user_001",
+      "userData": {
+        "name": "Nicole le Fevre",
+        "currentWeight": 9,
+        "goalWeight": 10
+      },
+      "workoutPlan": {
+        "title": "Træningsplan 5 dage",
+        "workout": [
+          {
+            "workoutId": "Quads",
+            "exercises": [
+              "Leg Extension",
+              "Squat",
+              "Benpress",
+              "Bulgarian Split Squat",
+              "Goblet Squat"
+            ]
+          },
+          {
+            "workoutId": "Skulder",
+            "exercises": [
+              "Lateral Raise",
+              "Shoulder Press",
+              "Rear Delt Fly, Bent Over Standing",
+              "Face Pull",
+              "Arnold Press",
+              "Front Raise"
+            ]
+          },
+          {
+            "workoutId": "Glutes",
+            "exercises": [
+              "Glute Kickback",
+              "Sumo Deadlift",
+              "Hip Thrust",
+              "Romanian Deadlift",
+              "Leg Press",
+              "Leg Curl"
+            ]
+          },
+          {
+            "workoutId": "Back",
+            "exercises": [
+              "Pull Down",
+              "Row Cable",
+              "Straight Arm Pull Down",
+              "Dødløft",
+              "Bent Over Row",
+              "Bicep Curl",
+              "Hammer Curl",
+              "Tricep Extension"
+            ]
+          },
+          {
+            "workoutId": "Legs",
+            "exercises": [
+              "Hip Thrist",
+              "Leg Curl",
+              "Leg Extension",
+              "Benpress",
+              "Goblet Squat",
+              "Bulgarian Split Squat"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
